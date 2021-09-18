@@ -1,0 +1,7 @@
+brew services start postgresql 
+
+запуск постгрес
+
+name db: mymaindb
+name user fo db: psadmin
+password for user: password123
