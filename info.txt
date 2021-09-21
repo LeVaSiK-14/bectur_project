@@ -5,3 +5,9 @@ brew services start postgresql
 name db: mymaindb
 name user fo db: psadmin
 password for user: password123
+
+\dt 
+psql название
+
+django orm cookbook
+django models
